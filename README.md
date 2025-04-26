@@ -1,0 +1,1 @@
+In this project, a customer showcase was developed, customer base segmentation (K-means, EM-algorithm, RFM) was done, and a model of joint purchases was built based on transactional data (Market Basket Analysis). 
